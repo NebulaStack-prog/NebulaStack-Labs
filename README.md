@@ -1,79 +1,55 @@
-# 💻 NebulaStack – Infotech
+# 🧪 NebulaStack – Labs
 
-**Infotech** is the core software development direction of **NebulaStack**.
+> **Research • Science • Experimental Technologies**
 
-This repository serves as a central hub for projects related to software engineering, artificial intelligence, automation, bots, desktop applications, and modern development technologies.
+## 📖 About
 
----
+**NebulaStack – Labs** is the experimental branch of the ecosystem.
+
+It contains scientific models, prototypes and interdisciplinary projects that explore technologies beyond traditional software development.
 
 ## 🎯 Mission
 
-To create practical software solutions, explore modern technologies, and continuously improve engineering skills through real projects.
+Experiment, research and transform ideas into future NebulaStack innovations.
 
-Every project is developed not only as a finished product but also as a documented learning experience.
+# 🚀 Research Areas
 
----
+## 🌌 Phystech
 
-## 📂 Areas
+| ID     | Project       | Status |
+| ------ | ------------- | :----: |
+| NS-020 | Coming soon   |   📝   |
+| NS-021 | Coming soon   |   📝   |
 
-### 🤖 Artificial Intelligence
+## 🏛 Arch
 
-AI assistants, LLM integrations, prompt engineering, agent-based systems, machine learning experiments.
+| ID     |   Project   | Status |
+| ------ |  ---------  | :----: |
+| NS-022 | Coming soon |   📝   |
 
-### 💬 Telegram Bots
+## 🧬 Biotech
 
-Telegram bots, automation tools, personal assistants, API integrations.
+*Coming Soon...*
 
-### 🖥️ Software Development
+# 🔭 Future Research
 
-Desktop applications, utilities, productivity tools, educational software.
+* Physics Simulations
+* Architectural Models
+* Biological Technologies
+* Scientific Visualization
 
-### ⚙️ Automation
-
-Scripts, workflow automation, data processing, developer tools.
-
-### 🧪 Experiments
-
-Technology prototypes, proof-of-concepts, and research implementations.
-
----
-
-## 🛠 Technology Stack
+# 🛠 Technology Stack
 
 * Python
-* Java
-* C#
 * Unity
-* Git & GitHub
-* Telegram Bot API
-* OpenClaw
-* LLM-based AI Systems
+* Blender
+* CAD
+* Physics Engines
 
----
+# 🌌 Philosophy
 
-## 🚀 Current Status
+Innovation begins with curiosity.
 
-**Active Development**
+Every experiment is a step toward discovering something new.
 
-New projects are added as NebulaStack continues to grow.
-
----
-
-## 📖 Philosophy
-
-Every project represents another step in expanding NebulaStack.
-
-The goal is not simply to write code, but to study technologies, understand their principles, document the development process, and transform knowledge into practical products.
-
----
-
-## 📌 Related Repositories
-
-* 🏠 NebulaStack-Hub
-* 🎮 NebulaStack-Games
-* 🧪 NebulaStack-Labs
-* 📚 NebulaStack-Explore
-
----
-
-> **"Built through curiosity. Expanded through knowledge."**
+> **Explore. Experiment. Expand.**
