@@ -17,14 +17,14 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 ## 🌌 Phystech
 
 | ID     | Project       |Links  | Status |
-| ------ | ------------- |       | :----: |
+| ------ | ------------- |-------| :----: |
 | NS-020 | Coming soon   |       |   📝   |
 | NS-021 | Coming soon   |       |   📝   |
 
 ## 🏛 Arch
 
 | ID     |   Project   |Links  | Status |
-| ------ |  ---------  |       | :----: |
+| ------ |  ---------  |-------| :----: |
 | NS-022 | Coming soon |       |   📝   |
 
 ## 🧬 Biotech
