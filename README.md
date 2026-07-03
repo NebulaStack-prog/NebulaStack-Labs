@@ -27,6 +27,14 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | ------ |  ---------  |-------| :----: |
 | NS-022 | Coming soon |       |   📝   |
 
+## 🎶 Music Albums
+
+| Album  | Name          | 🇷🇺 RU  | 🇺🇲 EN|
+| ------ | ------------- |----- |:----: |
+| № 1    |🎵 Synthetic but Fine | More...| More...  |
+| № 2    |🏎 Racing Line 1-3| More...     |  More...   |
+| № 3    |☀️ Three Seasons but One| More...     | More...   |
+
 ## 🧬 Biotech
 
 *Coming Soon...*
@@ -46,14 +54,6 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 * CAD
 * Physics Engines
 * SongAI
-
-# 🎶 Music Albums
-
-| Album  | Name          | 🇷🇺 RU  | 🇺🇲 EN|
-| ------ | ------------- |----- |:----: |
-| № 1    |🎵 Synthetic but Fine | More...| More...  |
-| № 2    |🏎 Racing Line 1-3| More...     |  More...   |
-| № 3    |☀️ Three Seasons but One| More...     | More...   |
 
 # 🌌 Philosophy
 
