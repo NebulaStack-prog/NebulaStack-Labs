@@ -45,6 +45,11 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 * Blender
 * CAD
 * Physics Engines
+* SongAI
+
+# 🎶 Music Albums
+
+
 
 # 🌌 Philosophy
 
