@@ -1,6 +1,6 @@
 # 🧪 NebulaStack – Labs
 
-> **Research • Science • Experimental Technologies**
+> **Research • Science • Experimental Technologies • Music**
 
 ## 📖 About
 
