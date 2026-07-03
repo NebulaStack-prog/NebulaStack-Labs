@@ -51,27 +51,9 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | Album  | Name          | 🇷🇺 RU  | 🇺🇲 EN|
 | ------ | ------------- |----- |:----: |
-| № 1    | Synthetic but Fine | More...| More...  |
-| № 2    | Racing Line 1-3   | More...     |  More...   |
-| № 3    |Three Seasons but One| More...     | More...   |
-
-## 🎵 Album 1 – "Synthetic but Fine"
-
-* 🇷🇺 Russian version: [Details →](Synthetic_but_Fine_RU.md)
-  
-* 🇺🇸 English version: [Details →](Synthetic_but_Fine_EN.md)
-
-## 🏎 Album 2 – "Racing Line 1–3"
-
-* 🇷🇺 Russian version: **Details →**
-  
-* 🇺🇸 English version: **Details →**
-
-## ☀️ Album 3 – "Three Seasons but One"
-
-* 🇷🇺 Russian version: **Details →**
-  
-* 🇺🇸 English version: **Details →**
+| № 1    |🎵 Synthetic but Fine | More...| More...  |
+| № 2    |🏎 Racing Line 1-3| More...     |  More...   |
+| № 3    |☀️ Three Seasons but One| More...     | More...   |
 
 # 🌌 Philosophy
 
