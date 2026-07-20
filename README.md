@@ -18,14 +18,14 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
-| NS-020 | Coming soon   |       |   📝   |
-| NS-021 | Coming soon   |       |   📝   |
+| NS-024 | Black Hole   |       |   📝   |
+| NS-025 | Planet System   |       |   📝   |
 
 ## 🏛 Arch
 
 | ID     |   Project   |Links  | Status |
 | ------ |  ---------  |-------| :----: |
-| NS-022 | Coming soon |       |   📝   |
+| NS-017 | School Model |       |   📝   |
 
 ## 🎶 Music Albums
 
