@@ -14,6 +14,16 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 # 🚀 Research Areas
 
+## 💎 Crystallogenesis
+
+| ID     | Project       |Links  | Status |
+| ------ | ------------- |-------| :----: |
+| NS-E001 | Alum   |       |   📝   |
+| NS-E002 | Chrome Alum    |       |   📝   |
+| NS-E003 | Copper Sulfate   |       |   📝   |
+| NS-E004 | Borax |       |   📝   |
+| NS-E005 | Epsom Salt |       |   📝   |
+
 ## 🌌 Phystech
 
 | ID     | Project       |Links  | Status |
@@ -25,15 +35,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     |   Project   |Links  | Status |
 | ------ |  ---------  |-------| :----: |
-| NS-017 | School Model |       |   📝   |
-
-## 🎶 Music Albums
-
-| Album  | Name          | 🇷🇺 RU  | 🇺🇲 EN|
-| ------ | ------------- |----- |:----: |
-| № 1    |🎵 Synthetic but Fine | More...| More...  |
-| № 2    |🏎 Racing Line 1-3| More...     |  More...   |
-| № 3    |☀️ Three Seasons but One| More...     | More...   |
+| NS-023 | School Model |       |   📝   |
 
 ## 🧬 Biotech
 
