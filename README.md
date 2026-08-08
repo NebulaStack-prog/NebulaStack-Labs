@@ -18,11 +18,11 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
-| NS-E001 | Alum   |       |   📝   |
-| NS-E002 | Chrome Alum    |       |   📝   |
-| NS-E003 | Copper Sulfate   |       |   📝   |
-| NS-E004 | Borax |       |   📝   |
-| NS-E005 | Epsom Salt |       |   📝   |
+| NS-E001 | Alum   |       |   🛠   |
+| NS-E002 | Chrome Alum    |       |   🛠   |
+| NS-E003 | Copper Sulfate   |       |   🛠   |
+| NS-E004 | Borax |       |   🛠   |
+| NS-E005 | Epsom Salt |       |   🛠   |
 
 ## 🌌 Phystech
 
@@ -55,7 +55,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 * Blender
 * CAD
 * Physics Engines
-* SongAI
+* Crystal Growth Kit
 
 # 🌌 Philosophy
 
