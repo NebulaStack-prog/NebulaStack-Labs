@@ -24,12 +24,15 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | NS-E004 | Borax |       |   🛠   |
 | NS-E005 | Epsom Salt |       |   🛠   |
 
-## 🌌 Phystech
+## 🌌 Phenomena
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
-| NS-024 | Black Hole   |       |   📝   |
-| NS-025 | Planet System   |       |   📝   |
+| NS-P001 | Fata Morgana (2025)   |       |   ✅️   |
+| NS-P002 | Noctilucent Clouds (2026)|       |  ✅️   |
+| NS-P003 | Northern Lights  (2025) |     |   ✅️   |
+| NS-P004 | Solar Eclipse (2026)  |       |   ✅️   |
+| NS-P005 | Perseids  (2026) |       |   ✅️   |
 
 ## 🏛 Arch
 
