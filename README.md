@@ -59,6 +59,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 * CAD
 * Physics Engines
 * Crystal Growth Kit
+* Photos
 
 # 🌌 Philosophy
 
