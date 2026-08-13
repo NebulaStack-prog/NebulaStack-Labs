@@ -30,7 +30,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | ------ | ------------- |-------| :----: |
 | NS-P001 | Fata Morgana (2025)   |  [More...](https://github.com/NebulaStack-prog/Fata-Morgana-2025)     |   ✅️   |
 | NS-P002 | Noctilucent Clouds (2026)|  [More...](https://github.com/NebulaStack-prog/Noctilucent-Clouds-2026)     |  ✅️   |
-| NS-P003 | Northern Lights  (2025) |     |   ✅️   |
+| NS-P003 | Northern Lights  (2025) |   [More...](https://github.com/NebulaStack-prog/Northern-Lights-2025)  |   ✅️   |
 | NS-P004 | Solar Eclipse (2026)  |       |   ✅️   |
 | NS-P005 | Perseids  (2026) |       |   ✅️   |
 
