@@ -18,8 +18,8 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
-| NS-E001 | Alum   |       |   🛠   |
-| NS-E002 | Chrome Alum    |       |   🛠   |
+| NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   🛠   |
+| NS-E002 | Chrome Alum    | [More...](https://github.com/NebulaStack-prog/Chrome-Alum)      |   🛠   |
 | NS-E003 | Copper Sulfate   |       |   🛠   |
 | NS-E004 | Borax |       |   🛠   |
 | NS-E005 | Epsom Salt |       |   🛠   |
