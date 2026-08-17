@@ -14,12 +14,6 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 # 🚀 Research Areas
 
-## 💎 Crystallogenesis
-
-| ID     | Project       |Links  | Status |
-| ------ | ------------- |-------| :----: |
-| NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   🛠   |
-
 ## 🌌 Phenomena
 
 | ID     | Project       |Links  | Status |
@@ -29,6 +23,12 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | NS-P003 | Northern Lights  (2025) |   [More...](https://github.com/NebulaStack-prog/Northern-Lights-2025)  |   ✅️   |
 | NS-P004 | Solar Eclipse (2026)  |   [More...](https://github.com/NebulaStack-prog/Solar-Eclipse-2026)    |   ✅️   |
 | NS-P005 | Perseids  (2026) | [More...](https://github.com/NebulaStack-prog/Perseids-2026)      |   ✅️   |
+
+## 💎 Crystallogenesis
+
+| ID     | Project       |Links  | Status |
+| ------ | ------------- |-------| :----: |
+| NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   🛠   |
 
 ## 🏛 Arch
 
