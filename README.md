@@ -12,7 +12,7 @@ It contains scientific models, prototypes and interdisciplinary projects that ex
 
 Experiment, research and transform ideas into future NebulaStack innovations.
 
-## 🌌 Phenomena
+## 🌌 Phenomena (Topic 1)
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
@@ -22,13 +22,13 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | NS-P004 | Solar Eclipse (2026)  |   [More...](https://github.com/NebulaStack-prog/Solar-Eclipse-2026)    |   ✅️   |
 | NS-P005 | Perseids  (2026) | [More...](https://github.com/NebulaStack-prog/Perseids-2026)      |   ✅️   |
 
-## 💎 Crystallogenesis
+## 💎 Crystallogenesis (Topic 2)
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
 | NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   🛠   |
 
-## 🏛 Arch
+## 🏛 Arch (Topic 3)
 
 | ID     |   Project   |Links  | Status |
 | ------ |  ---------  |-------| :----: |
