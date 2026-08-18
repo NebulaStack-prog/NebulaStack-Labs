@@ -12,8 +12,6 @@ It contains scientific models, prototypes and interdisciplinary projects that ex
 
 Experiment, research and transform ideas into future NebulaStack innovations.
 
-# 🚀 Research Areas
-
 ## 🌌 Phenomena
 
 | ID     | Project       |Links  | Status |
@@ -36,18 +34,14 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | ------ |  ---------  |-------| :----: |
 | NS-023 | School Model |       |   📝   |
 
-## 🧬 Biotech
-
-*Coming Soon...*
-
-# 🔭 Future Research
+## 🔭 Future Research
 
 * Physics Simulations
 * Architectural Models
 * Biological Technologies
 * Scientific Visualization
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * Python
 * Unity
@@ -57,7 +51,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 * Crystal Growth Kit
 * Photos
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Innovation begins with curiosity.
 
