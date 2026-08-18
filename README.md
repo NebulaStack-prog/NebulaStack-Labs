@@ -34,6 +34,10 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 | ------ |  ---------  |-------| :----: |
 | NS-023 | School Model |       |   📝   |
 
+## 🧬 Biotech
+
+*Coming Soon...*
+
 ## 🔭 Future Research
 
 * Physics Simulations
