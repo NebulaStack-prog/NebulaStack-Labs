@@ -26,7 +26,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     | Project       |Links  | Status |
 | ------ | ------------- |-------| :----: |
-| NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   🛠   |
+| NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   ✅️   |
 
 ## 🏛 Arch 
 
