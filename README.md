@@ -32,11 +32,13 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     |   Project   |Links  | Status |
 | ------ |  ---------  |-------| :----: |
-| NS-023 | School Model |       |   📝   |
+| NS-A001 | School Model |       |   📝   |
 
 ## 🧬 Biotech
 
-*Coming Soon...*
+| ID     |   Project   |Links  | Status |
+| ------ |  ---------  |-------| :----: |
+| NS-B001 | Adenex |       |   📝   |
 
 ## 🔭 Future Research
 
