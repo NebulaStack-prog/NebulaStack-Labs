@@ -38,7 +38,7 @@ Experiment, research and transform ideas into future NebulaStack innovations.
 
 | ID     |   Project   |Links  | Status |
 | ------ |  ---------  |-------| :----: |
-| NS-B001 | Adenex |       |   📝   |
+| **NS-B001** | **Adenex** |       |   📝   |
 
 ## 🔭 Future Research
 
