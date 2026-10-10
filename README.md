@@ -10,7 +10,7 @@ It contains scientific models, prototypes and interdisciplinary projects that ex
 
 ## 🎯 Mission
 
-Experiment, research and transform ideas into future ТУЫЕШЬЫ innovations.
+Experiment, research and transform ideas into future NESTIMS innovations.
 
 ## 🌌 Phenomena 
 
