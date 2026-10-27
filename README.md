@@ -40,13 +40,6 @@ Experiment, research and transform ideas into future NESTIMS innovations.
 | ------ |  ---------  |-------| :----: |
 | **NS-B001** | **Adenex** |       |   📝   |
 
-## 🔭 Future Research
-
-* Physics Simulations
-* Architectural Models
-* Biological Technologies
-* Scientific Visualization
-
 ## 🛠 Technology Stack
 
 * Python
