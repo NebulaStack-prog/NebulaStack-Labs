@@ -21,6 +21,8 @@ Experiment, research and transform ideas into future NESTIMS innovations.
 | NS-P003 | Northern Lights  (2025) |   [More...](https://github.com/NebulaStack-prog/Northern-Lights-2025)  |   ✅️   |
 | NS-P004 | Solar Eclipse (2026)  |   [More...](https://github.com/NebulaStack-prog/Solar-Eclipse-2026)    |   ✅️   |
 | NS-P005 | Perseids  (2026) | [More...](https://github.com/NebulaStack-prog/Perseids-2026)      |   ✅️   |
+| NS-P006 | One Light-Day  (2026) | [More...](https://github.com/NebulaStack-prog/One-Light-Day-2026)      |   ✅️   |
+
 
 ## 💎 Crystallogenesis
 
