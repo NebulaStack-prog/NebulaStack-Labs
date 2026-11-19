@@ -30,24 +30,10 @@ Experiment, research and transform ideas into future NESTIMS innovations.
 | ------ | ------------- |-------| :----: |
 | NS-E001 | Alum   |[More...](https://github.com/NebulaStack-prog/Alum)     |   ✅️   |
 
-## 🏛 Arch 
-
-| ID     |   Project   |Links  | Status |
-| ------ |  ---------  |-------| :----: |
-| NS-A001 | School Model |       |   📝   |
-
-## 🧬 Biotech
-
-| ID     |   Project   |Links  | Status |
-| ------ |  ---------  |-------| :----: |
-| **NS-B001** | **Adenex** |       |   📝   |
-
 ## 🛠 Technology Stack
 
 * Python
 * Unity
-* Blender
-* CAD
 * Physics Engines
 * Crystal Growth Kit
 * Photos
